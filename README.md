@@ -52,7 +52,7 @@ plot_tree(dt,feature_names=x.columns,filled=True)
 plt.show()
 ```
 ## Output:
-
+HEAD :
 ![Screenshot 2024-04-02 202112](https://github.com/yogaraj2/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/153482637/35ce067d-6f28-4f18-919f-f66eb2b55e85)
  
 ![Screenshot 2024-04-02 202044](https://github.com/yogaraj2/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/153482637/b75311fb-247a-4dcb-8a85-40cb806d3b8c)
